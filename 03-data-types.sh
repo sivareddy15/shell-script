@@ -12,3 +12,5 @@
  echo "FIRST FRUIT IS :: ${FRUITS[0]}"
  echo "SECOND FRUIT IS :: ${FRUITS[1]}"
  echo "THIRD FRUIT IS :: ${FRUITS[2]}"
+
+ echo "TOTAL FRUITS ARE :: ${FRUITS[@]}"
