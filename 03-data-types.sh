@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# to run code dynamically use $()
+# to declare array ()
+# to print total no @
+# ${}
 #  NUMBER1=$1
 #  NUMBER2=$2
 
