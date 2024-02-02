@@ -9,6 +9,6 @@
 
  FRUITS=("APPLE" "BANANA" "Mango")
 
- echo "First fruit is ${FRUITS[0]}"
- echo "SECOND FRIUIT IS ${FRUITS[1]}"
- echo "THIRD FRIUT IS $FRUITS[2]"
+ echo "FIRST FRUIT IS :: ${FRUITS[0]}"
+ echo "SECOND FRUIT IS :: ${FRUITS[1]}"
+ echo "THIRD FRUIT IS :: ${FRUITS[2]}"
