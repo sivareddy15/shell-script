@@ -7,7 +7,7 @@
 
 #  echo "Total sum is :: $SUM"
 
- FRUITS=("APPLE","BANANA","Mango")
+ FRUITS=("APPLE" "BANANA" "Mango")
 
  echo "First fruit is ${FRUITS[0]}"
  echo "SECOND FRIUIT IS ${FRUITS[1]}"
